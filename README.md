@@ -6,7 +6,7 @@ A list of sites/resources that I am interested in, or have used in my dev effort
 * [Refactoring Guru](https://refactoring.guru)
 
 ## 4D
-* [4D compoents on Github](https://github.com/topics/4d-component)
+* [4D components on Github](https://github.com/topics/4d-component)
 
 ## Online Tools
 * Regular Expressions
