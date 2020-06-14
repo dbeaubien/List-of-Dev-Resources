@@ -13,6 +13,7 @@ A list of sites/resources that I am interested in, or have used in my dev effort
   * [Regexper](https://regexper.com)
   * [Regexr](https://regexr.com)
 * Email receipt testing [Mailinator](https://www.mailinator.com)
+* [Marak/faker.js](https://github.com/Marak/faker.js)
 
 ## Icon Libraries
 * [Vaadin-icons](https://icon-icons.com/fr/pack/Vaadin-icons/906)
