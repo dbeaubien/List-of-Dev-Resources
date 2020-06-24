@@ -19,3 +19,11 @@ A list of sites/resources that I am interested in, or have used in my dev effort
 * [Vaadin-icons](https://icon-icons.com/fr/pack/Vaadin-icons/906)
 * [Font Awesome](https://fontawesome.com/)
 
+## GIT
+* [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/)
+* [The 11 Rules of GitLab Flow](https://about.gitlab.com/blog/2016/07/27/the-11-rules-of-gitlab-flow/)
+* [The problem with Git flow](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/)
+* [How to Collaborate On GitHub](https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)
+* [How to Collaborate on Github Open Source Projects](https://www.pontikis.net/blog/how-to-collaborate-on-github-open-source-projects)
+* [The Ultimate Github Collaboration Guide](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67)
+* [Merging an upstream repository into your fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-an-upstream-repository-into-your-fork)
