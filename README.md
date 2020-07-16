@@ -30,3 +30,6 @@ A list of sites/resources that I am interested in, or have used in my dev effort
 
 ## Open Source
 * [Open Source Guides](https://opensource.guide/)
+
+## PHP
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) A curated list of amazingly awesome PHP libraries, resources and shiny things.
