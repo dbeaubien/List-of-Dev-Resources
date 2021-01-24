@@ -33,3 +33,4 @@ A list of sites/resources that I am interested in, or have used in my dev effort
 
 ## PHP
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) A curated list of amazingly awesome PHP libraries, resources and shiny things.
+* [yaac - Yet another ACME client](https://github.com/afosto/yaac) Written in PHP, this client aims to be a simplified and decoupled Let’s Encrypt client, based on [ACME V2](https://tools.ietf.org/html/rfc8555).
