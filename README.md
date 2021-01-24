@@ -34,3 +34,14 @@ A list of sites/resources that I am interested in, or have used in my dev effort
 ## PHP
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [yaac - Yet another ACME client](https://github.com/afosto/yaac) Written in PHP, this client aims to be a simplified and decoupled Let’s Encrypt client, based on [ACME V2](https://tools.ietf.org/html/rfc8555).
+
+## Coding Principles
+* [YAGNI](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it)
+* [SOLID](https://en.wikipedia.org/wiki/SOLID)
+  * [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
+  * [Open–closed principle](https://en.wikipedia.org/wiki/Open–closed_principle) Software entities ... should be open for extension, but closed for modification.
+  * [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle) Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
+  * [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle) Many client-specific interfaces are better than one general-purpose interface.
+  * [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle) One should "depend upon abstractions, [not] concretions."
+* [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [KISS](https://en.wikipedia.org/wiki/KISS_principle)
