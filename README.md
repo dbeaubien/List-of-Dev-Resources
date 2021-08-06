@@ -27,6 +27,7 @@ A list of sites/resources that I am interested in, or have used in my dev effort
 * [How to Collaborate on Github Open Source Projects](https://www.pontikis.net/blog/how-to-collaborate-on-github-open-source-projects)
 * [The Ultimate Github Collaboration Guide](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67)
 * [Merging an upstream repository into your fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-an-upstream-repository-into-your-fork)
+* [Customizing Git - Git Configuration](https://www.git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
 
 ## Open Source
 * [Open Source Guides](https://opensource.guide/)
