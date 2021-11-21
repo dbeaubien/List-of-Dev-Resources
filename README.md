@@ -6,7 +6,9 @@ A list of sites/resources that I am interested in, or have used in my dev effort
 * [Refactoring Guru](https://refactoring.guru)
 
 ## 4D
+* [4D code on Github](https://github.com/topics/4d-code)
 * [4D components on Github](https://github.com/topics/4d-component)
+* [4D classes on Github](https://github.com/topics/4d-class)
 * [Vincent de Lachaux Respositories with classes](https://github.com/search?q=user%3Avdelachaux+-with-classes)
 
 ## Online Tools
