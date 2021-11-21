@@ -7,6 +7,7 @@ A list of sites/resources that I am interested in, or have used in my dev effort
 
 ## 4D
 * [4D components on Github](https://github.com/topics/4d-component)
+* [Vincent de Lachaux Respositories with classes](https://github.com/search?q=user%3Avdelachaux+-with-classes)
 
 ## Online Tools
 * Regular Expressions
